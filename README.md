@@ -4,4 +4,4 @@ This is a Docker setup for an Alsa Explore image. At present, this consists of a
 
 Source code and Dockerfile are in [this repository](https://github.com/mikebrady/alsaexplore).
 
-This is a very volatile respository at present. Please do not rely on it.
+This is a very volatile respository. Please do not rely on it.
