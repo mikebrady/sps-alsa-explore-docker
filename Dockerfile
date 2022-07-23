@@ -25,5 +25,5 @@ RUN 	rm -rf  /lib/apk/db/*
 
 COPY 	--from=builder /sps-alsa-explore /usr/local/bin
 
-ENTRYPOINT [ "/bin/sh" ]
+ENTRYPOINT [ "/usr/local/bin/sps-alsa-explore" ]
 
